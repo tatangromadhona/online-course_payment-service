@@ -13,7 +13,7 @@ ONLINECOURSE is an udemy-like online course platform built using microservices a
 
 Service order and payment that I have combined into one to reduce the complexity of the architecture that is being worked on, this service is used to storing course purchase transaction data.
 
-This service will build using laravel framework.
+This service will build using Laravel Framework.
 
 ## Another Services
 
