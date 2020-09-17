@@ -1,4 +1,4 @@
-# Online Course - User Service
+# Online Course - Payment Service
 
 [![ONLINECOURSE Logo](https://ik.imagekit.io/tatangdev/online-course/Asset_5__ELvljTjxona.png)](https://github.com/tatangromadhona/online-course_api-gateway)
 
