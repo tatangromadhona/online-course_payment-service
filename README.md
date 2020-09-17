@@ -9,9 +9,11 @@ ONLINECOURSE is an udemy-like online course platform built using microservices a
 | --- |
 | [![ONLINECOURSE Logo](https://ik.imagekit.io/tatangdev/online-course/Asset_5_rXsSNbDR84.png)](https://github.com/tatangromadhona/online-course_api-gateway) |
 
-## User Service
+## Payment Service
 
-This service is used to store users who are logged in or registered.
+Service order and payment that I have combined into one to reduce the complexity of the architecture that is being worked on, this service is used to storing course purchase transaction data.
+
+This service will build using laravel framework.
 
 ## Another Services
 
